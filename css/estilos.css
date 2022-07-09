@@ -1,7 +1,7 @@
 body
 {
-    color: blue;
-    text-align: left;
+    color: #333;
+    text-align: center;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -37,4 +37,17 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1cm;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
 }
